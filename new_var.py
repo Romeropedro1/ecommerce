@@ -1,0 +1,4 @@
+from stat import IO_REPARSE_TAG_MOUNT_POINT
+
+
+new_var = IO_REPARSE_TAG_MOUNT_POINT
